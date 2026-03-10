@@ -31,14 +31,14 @@ The project addresses key research questions in forest monitoring by evaluating 
   </tr>
   <tr>
     <td width="30%">
-      <a href="https://github.com/LukasBuchmann/PA3-Wind-Energy-Thurgau">
+      <a href="https://github.com/LukasBuchmann/Site_Suitability_Analysis">
         <img src="Final_Map.png" width="100%" alt="Wind Energy Suitability Thurgau">
       </a>
     </td>
     <td width="70%">
-      <h3><a href="https://github.com/LukasBuchmann/PA3-Wind-Energy-Thurgau">Site Suitability Analysis for Wind Energy: A Raster-based Multi-Criteria Approach</a></h3>
+      <h3><a href="https://github.com/LukasBuchmann/Site_Suitability_Analysis">Site Suitability Analysis for Wind Energy: A Raster-based Multi-Criteria Approach</a></h3>
       <p>This project identifies suitable locations for wind turbine development in Canton Thurgau using a Geographic Information System (GIS)-based Multi-Criteria Analysis (MCA). It systematically overlays spatial criteria, such as wind speed, distance to settlements, and protected areas, to calculate a suitability index that balances economic, technical, and legal requirements.</p>
-      <a href="https://github.com/LukasBuchmann/PA3-Wind-Energy-Thurgau/blob/main/docs/Buchmann_Lukas_Project_Report_GISScience_GDB.pdf">👉 Read the full Project Report (PDF)</a>
+      <a href="https://github.com/LukasBuchmann/Site_Suitability_Analysis/blob/main/docs/Buchmann_Lukas_Project_Report_GISScience_GDB.pdf">👉 Read the full Project Report (PDF)</a>
     </td>
   </tr>
 </table>
