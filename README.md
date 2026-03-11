@@ -53,6 +53,17 @@ The project addresses key research questions in forest monitoring by evaluating 
       <a href="https://github.com/LukasBuchmann/OHPC-PW/blob/main/OHPC_report/main.pdf">👉 Read the full Project Report (PDF)</a>
     </td>
   </tr>
+  <tr>
+    <td width="30%">
+      <a href="https://github.com/LukasBuchmann/Grape-Disease-Classification">
+        <img src="41598_2024_59562_Fig1_HTML.png" width="100%" alt="Grape-Disease-Classification">
+      </a>
+    </td>
+    <td width="70%">
+      <h3><a href="https://github.com/LukasBuchmann/Grape-Disease-Classification">Grape Disease Classification using Deep Learning</a></h3>
+      <p>Focused on automated agricultural diagnostics, this project uses computer vision to classify grape leaf diseases. By leveraging transfer learning with a ResNet50 backbone pretrained on ImageNet, the model achieves robust image classification for practical plant pathology.</p>
+    </td>
+  </tr>
 </table>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
