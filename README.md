@@ -41,6 +41,18 @@ The project addresses key research questions in forest monitoring by evaluating 
       <a href="https://github.com/LukasBuchmann/Site_Suitability_Analysis/blob/main/docs/Buchmann_Lukas_Project_Report_GISScience_GDB.pdf">👉 Read the full Project Report (PDF)</a>
     </td>
   </tr>
+  <tr>
+    <td width="30%">
+      <a href="https://github.com/LukasBuchmann/OHPC-PW">
+        <img src="cycles.png" width="100%" alt="High-Performance Computing">
+      </a>
+    </td>
+    <td width="70%">
+      <h3><a href="https://github.com/LukasBuchmann/OHPC-PW">Data-Driven Optimisation of the Hathaway Sunspots Model</a></h3>
+      <p>This project implements a data-driven optimization pipeline to calibrate the Hathaway Solar Cycle Model against historical sunspot records. By utilizing a Simulated Annealing (SA) algorithm accelerated with high-performance Python computing techniques (Numba, NumExpr, and Multiprocessing), the system reconstructs the characteristics of solar cycles from daily observational data.</p>
+      <a href="https://github.com/LukasBuchmann/OHPC-PW/blob/main/OHPC_report/main.pdf">👉 Read the full Project Report (PDF)</a>
+    </td>
+  </tr>
 </table>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
